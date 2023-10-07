@@ -29,6 +29,7 @@ can only view tours.
 - Front end
   - React with Reactstrap
 - Back end
-  - NodeJS
+  - NodeJS (16.0.0 version)
 - Database
   - MongoDB
+
