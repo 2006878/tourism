@@ -48,7 +48,7 @@ class NavbarMain extends React.Component {
                   <NavLink href="#packageBody">Pacotes</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#servicesBody">Serviçoss</NavLink>
+                  <NavLink href="#servicesBody">Serviços</NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink href="#contactBody">Contato</NavLink>
