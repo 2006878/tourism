@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0d1beab4766fdf3d708b",
+    "revision": "9ea755944954d843dad6",
     "url": "/tourism/static/css/main.b36f7e8e.chunk.css"
   },
   {
-    "revision": "0d1beab4766fdf3d708b",
-    "url": "/tourism/static/js/main.0d1beab4.chunk.js"
+    "revision": "9ea755944954d843dad6",
+    "url": "/tourism/static/js/main.9ea75594.chunk.js"
   },
   {
     "revision": "d563e0ae0fa57ac3c150",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/tourism/static/media/instagram.6cbcb76e.svg"
   },
   {
-    "revision": "e3b2fcbf88523b37aa7058c3756462bd",
+    "revision": "8f3d0a8dd562523d5a2ac34eadfb715a",
     "url": "/tourism/index.html"
   }
 ];

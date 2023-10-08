@@ -1,7 +1,7 @@
 {
   "main.css": "/tourism/static/css/main.b36f7e8e.chunk.css",
-  "main.js": "/tourism/static/js/main.0d1beab4.chunk.js",
-  "main.js.map": "/tourism/static/js/main.0d1beab4.chunk.js.map",
+  "main.js": "/tourism/static/js/main.9ea75594.chunk.js",
+  "main.js.map": "/tourism/static/js/main.9ea75594.chunk.js.map",
   "static/css/1.38057cb6.chunk.css": "/tourism/static/css/1.38057cb6.chunk.css",
   "static/js/1.d563e0ae.chunk.js": "/tourism/static/js/1.d563e0ae.chunk.js",
   "static/js/1.d563e0ae.chunk.js.map": "/tourism/static/js/1.d563e0ae.chunk.js.map",
@@ -37,9 +37,9 @@
   "static/media/twitter.43449f1c.svg": "/tourism/static/media/twitter.43449f1c.svg",
   "static/media/linkedin.beb71356.svg": "/tourism/static/media/linkedin.beb71356.svg",
   "static/media/instagram.6cbcb76e.svg": "/tourism/static/media/instagram.6cbcb76e.svg",
-  "static/css/1.38057cb6.chunk.css.map": "/tourism/static/css/1.38057cb6.chunk.css.map",
   "static/css/main.b36f7e8e.chunk.css.map": "/tourism/static/css/main.b36f7e8e.chunk.css.map",
+  "static/css/1.38057cb6.chunk.css.map": "/tourism/static/css/1.38057cb6.chunk.css.map",
   "index.html": "/tourism/index.html",
-  "precache-manifest.9224c92fe8fe138f2d79822e7b373fc9.js": "/tourism/precache-manifest.9224c92fe8fe138f2d79822e7b373fc9.js",
+  "precache-manifest.f7f33bf8fbc0705f2e5b531c8890de45.js": "/tourism/precache-manifest.f7f33bf8fbc0705f2e5b531c8890de45.js",
   "service-worker.js": "/tourism/service-worker.js"
 }
