@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import { Router, Link } from "@reach/router";
+import { BrowserRouter as Router, Link } from "react-router-dom";
 import NavbarMain from "./components/Navbar";
 import Home from "./pages/Home";
 import Tour from "./pages/Tour";
