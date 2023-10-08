@@ -11,27 +11,27 @@ class Contact extends Component {
       <div className="subComponent-lg" id="contactBody">
         <Container>
           <header className="headerTitle text-center">
-            <h1>Contact</h1>
-            <p>GET IN TOUCH WITH US</p>
+            <h1>Contato</h1>
+            <p>Entre em contato conosco e encontre sua aventura</p>
           </header>
           <section className="svg-group text-center">
             <Row>
               <Col lg="4" md="4">
                 <div className="svg-card-3">
                   <Phone width="50" height="55" strokeWidth="1" />
-                  <p>0912 345 6789</p>
+                  <p>35 99999 9999</p>
                 </div>
               </Col>
               <Col lg="4" md="4">
                 <div className="svg-card-3">
                   <MapPin width="55" height="55" strokeWidth="1" />
-                  <p>Manila City, Philippines</p>
+                  <p>Região da Canastra, Minas Gerais</p>
                 </div>
               </Col>
               <Col lg="4" md="4">
                 <div className="svg-card-3">
                   <Mail width="55" height="55" strokeWidth="1" />
-                  <p>manilatourism@manila.ph</p>
+                  <p>contato@guicanastra.com.br</p>
                 </div>
               </Col>
             </Row>
@@ -46,7 +46,7 @@ class Contact extends Component {
                     type="text"
                     name="Name"
                     id="reviewer-name"
-                    placeholder="Your Name"
+                    placeholder="Seu nome"
                     required
                   />
                   <br />
@@ -54,7 +54,7 @@ class Contact extends Component {
                     type="email"
                     name="Email"
                     id="reviewer-email"
-                    placeholder="Your email"
+                    placeholder="Seu email"
                     required
                   />
                 </Col>
@@ -63,10 +63,10 @@ class Contact extends Component {
                     name="Message"
                     id="reviewer-message"
                     rows="4"
-                    placeholder="Your Message"
+                    placeholder="Sua mensagem"
                   />
                   <Button outline color="light" className="float-left">
-                    Send Message
+                  Enviar mensagem
                   </Button>
                 </Col>
               </Row>

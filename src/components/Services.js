@@ -18,25 +18,25 @@ class Services extends Component {
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card-2">
                     <Trending width="50" height="55" strokeWidth="1" />
-                    <p>Promote Best Tours</p>
+                    <p>Promova os melhores passeios</p>
                   </div>
                 </Col>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card-2">
                     <Monitor width="55" height="55" strokeWidth="1" />
-                    <p>Showcase Tourist Spot</p>
+                    <p>Visualização de posntos turísticos</p>
                   </div>
                 </Col>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card-2">
                     <Flag width="55" height="55" strokeWidth="1" />
-                    <p>Best Travel Routes</p>
+                    <p>Melhores rotas de viagem</p>
                   </div>
                 </Col>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card-2">
                     <MapPin width="55" height="55" strokeWidth="1" />
-                    <p>Tour Guides</p>
+                    <p>Guias turísticos</p>
                   </div>
                 </Col>
               </Row>

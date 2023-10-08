@@ -16,33 +16,33 @@ class About extends Component {
         <div className="subComponent" id="aboutBody">
           <Container>
             <header className="headerTitle text-center">
-              <h1>About Travel</h1>
-              <p>Tour Guide & Private Guided Tours</p>
+              <h1>Sobre os serviços</h1>
+              <p>Passeios guiados em grupo ou particular</p>
             </header>
             <section className="svg-group text-center subComponent">
               <Row>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card">
                     <Award width="48" height="48" strokeWidth="1" />
-                    <p>Best Price Guarantee</p>
+                    <p>Guias autamente qualificados</p>
                   </div>
                 </Col>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card">
                     <Shield width="48" height="48" strokeWidth="1" />
-                    <p>Trust and Safety</p>
+                    <p>Diversão e segurança</p>
                   </div>
                 </Col>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card">
                     <Heart width="48" height="48" strokeWidth="1" />
-                    <p>Best Travel Agent</p>
+                    <p>As melhores experiências</p>
                   </div>
                 </Col>
                 <Col lg="3" md="6" sm="6">
                   <div className="svg-card">
                     <Compass width="48" height="48" strokeWidth="1" />
-                    <p>Travel Insurance</p>
+                    <p>Passeios Seguros</p>
                   </div>
                 </Col>
               </Row>

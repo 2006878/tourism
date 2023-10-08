@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import beach from "../img/beach.jpg";
+import cachoeira from "../img/cachoeira.jpg";
 import resort from "../img/resort.jpg";
 import camp from "../img/camp.jpg";
 import mountain from "../img/mountain.jpg";
@@ -15,28 +15,28 @@ import {
 const items = [
   {
     src: resort,
-    altText: "Slide 1",
-    caption: "Resorts"
+    altText: "",
+    caption: "Hotelaria"
   },
   {
     src: gulp,
-    altText: "Slide 2",
-    caption: "Rock Climbing"
+    altText: "",
+    caption: "Aventura"
   },
   {
     src: camp,
-    altText: "Slide 3",
+    altText: "",
     caption: "Camping"
   },
   {
-    src: beach,
-    altText: "Slide 4",
-    caption: "Beach"
+    src: cachoeira,
+    altText: "",
+    caption: "Cachoeira"
   },
   {
     src: mountain,
-    altText: "Slide 5",
-    caption: "Mountain Climbing"
+    altText: "",
+    caption: "Escalada"
   }
 ];
 

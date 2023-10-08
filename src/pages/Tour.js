@@ -78,7 +78,7 @@ const Tour = () => (
                   type="text"
                   name="Name"
                   id="reviewer-name"
-                  placeholder="Your Name"
+                  placeholder="Seu nome"
                   required
                 />
                 <br />
@@ -86,7 +86,7 @@ const Tour = () => (
                   type="email"
                   name="Email"
                   id="reviewer-email"
-                  placeholder="Your email"
+                  placeholder="Seu email"
                   required
                 />
               </Col>
@@ -95,12 +95,12 @@ const Tour = () => (
                   name="Message"
                   id="reviewer-message"
                   rows="4"
-                  placeholder="Your Message"
+                  placeholder="Sua mensagem"
                 />
               </Col>
             </Row>
             <Button outline color="secondary" className="float-right">
-              Submit
+              Enviar
             </Button>
           </form>
         </section>

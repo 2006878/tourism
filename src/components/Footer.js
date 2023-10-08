@@ -13,10 +13,10 @@ class Footer extends Component {
         <Container>
           <header className="headerTitle text-center">
             <p>
-              <b>CAN'T WAIT TO GET INVOLVED</b>
+              <b>VENHA SE AVENTURAR CONSCO</b>
             </p>
             <p>
-              <b>CONNECT WITH US NOW</b>
+              <b>ESTAMOS PRONTOS PARA LHE PROPORCIONAR UMA EXPERIÊNCIA INCRÍVEL</b>
             </p>
           </header>
           <footer className="svg-group text-center">
@@ -52,7 +52,7 @@ class Footer extends Component {
             </Row>
             <hr />
             <br />
-            <p>copyright 2019 | Manila Tourism Philippines</p>
+            <p>Copyright 2023 | Guia canastra</p>
           </footer>
         </Container>
       </div>

@@ -96,13 +96,13 @@ const tours = [
 ];
 
 const itemCategories = [
-  "all",
-  "beach",
-  "mountain",
-  "resort",
-  "climbing",
-  "camping",
-  "honeymoon"
+  "Todos",
+  "Cachoeira",
+  "Montanha",
+  "Hotelaria",
+  "Trilhas",
+  "Camping",
+  "Passeios"
 ];
 
 class Package extends Component {
@@ -121,8 +121,8 @@ class Package extends Component {
       <div className="subComponent-lg" id="packageBody">
         <Container>
           <header className="headerTitle text-center">
-            <h1>Tour Packages</h1>
-            <p>A Great Collection of Our Tour Packages</p>
+            <h1>Pacotes promocionais</h1>
+            <p>Diversos pacotes promocionais atendendo todos os perfis </p>
           </header>
           <section className="packageBody text-center">
             {itemCategories.map((badge, index) => (
