@@ -2,7 +2,7 @@
   "name": "tourism-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2006878.github.io/tourism/",
+  "homepage": ".",
   "dependencies": {
     "@reach/router": "^1.3.4",
     "bootstrap": "^4.5.2",
